@@ -12,9 +12,9 @@
     These are wallets which store your private keys on your mobile or desktop. 
     They should ONLY hold the amount of funds you want easy access to spend, since they are always vulnerable to attacks from malicious software updates and hackers. 
 
-    * Standard Mobile wallets - Blue, Muun, Breez, Samourai, Green, Phoenix, Simple Bitcoin Wallet. Click here for a video on using BlueWallet.
+* Standard Mobile wallets - Blue, Muun, Breez, Samourai, Green, Phoenix, Simple Bitcoin Wallet. Click here for a video on using BlueWallet.
 
-    * Standard Desktop wallets - Wasabi, Sparrow, Bitcoin Core. Click here for a video on using Wasabi.   
+* Standard Desktop wallets - Wasabi, Sparrow, Bitcoin Core. Click here for a video on using Wasabi.   
 
     2. Standard Hardware Wallets/Cold Wallets. 
     These are wallets which store your private keys on a device which never connects to the internet, hence 'cold'.
@@ -22,7 +22,7 @@
     They are used to secure your long-term savings, ie, funds NOT meant to be spent day-to-day.
     You can receive funds on these wallets easily setting up what are called Watch-only wallets.
 
-    * Standard Hardware wallets - Coldcard, Tapsigner, Jade. Click here for a video on using a Coldcard.
+* Standard Hardware wallets - Coldcard, Tapsigner, Jade. Click here for a video on using a Coldcard.
    
     Download and install, or Buy the wallet of your choice. Make sure to only download the wallet from trusted sources - Play Store, App Store and recognised websites.
 
@@ -49,9 +49,9 @@
     These locations should be private, accessible, safe from theft, loss, damage by water, fire, etc.
     These backups will allow you to recover your wallet in cases of wallet service being unavailaible, theft, loss, or damage of your device.
 
-    * If you have kept an optional passphrase, you should either make it memorable so that you do not need to write it down for backup or create backups for it seperately. Using passphrases is entirely optional. NOT ADVISED for beginners.
-    * Instead of securing the 12/24 words directly, you can highlight them in your favourite books and write down the page and paragraph numbers for reference.
-    * You can also think of distributing your Seed into three pieces of 4 words each and giving each piece to trusted family members and friends you trust to not collude to cheat you.
-    * You can use a metal plate instead of piece of paper if you think that paper is fragile and insecure to maintain. 
+* If you have kept an optional passphrase, you should either make it memorable so that you do not need to write it down for backup or create backups for it seperately. Using passphrases is entirely optional. NOT ADVISED for beginners.
+* Instead of securing the 12/24 words directly, you can highlight them in your favourite books and write down the page and paragraph numbers for reference.
+* You can also think of distributing your Seed into three pieces of 4 words each and giving each piece to trusted family members and friends you trust to not collude to cheat you.
+* You can use a metal plate instead of piece of paper if you think that paper is fragile and insecure to maintain. 
 Self-custody of Bitcoin comes with the responsibility of securing your seed phrase and managing your backups. Remember that self-Custody always comes with a unique set of potential risks and vulnerabilities regardless of your setup. 
 Please take the required time and necessary precautions to ensure the security of your Bitcoin, ie, using the correct Wallets, keeping the seed phrase private, and regularly maintaining your backups. 
