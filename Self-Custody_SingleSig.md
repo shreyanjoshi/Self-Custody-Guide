@@ -53,5 +53,5 @@
     * Instead of securing the 12/24 words directly, you can highlight them in your favourite books and write down the page and paragraph numbers for reference.
     * You can also think of distributing your Seed into three pieces of 4 words each and giving each piece to trusted family members and friends you trust to not collude to cheat you.
     * You can use a metal plate instead of piece of paper if you think that paper is fragile and insecure to maintain. 
-Remember, self-custody of Bitcoin comes always comes with a unique set of potential risks and vulnerabilities, and with the responsibility of securely managing your backups.
+Self-custody of Bitcoin comes with responsibility of securing your seed phrase and managing your backups. Remember that self-Custody always comes with a unique set of potential risks and vulnerabilities regardless of your setup. 
 Take the required time and necessary precautions to ensure the security of your Bitcoin, ie, using the correct Wallets, keeping the seed phrase private, and regularly maintaining your backups. 
