@@ -28,7 +28,7 @@
 
 ## Step 2: Generate a New Wallet
     Create a new Bitcoin wallet using the wallet app by clicking on add Wallet. 
-    The wallet will generate a unique Bitcoin Seed, which you can use to backup and recover the wallet. 
+    The wallet will generate a unique Bitcoin Seed, which you can use to backup the wallet and recover it in future. 
 
     You are now ready to receive Bitcoin. 
 
