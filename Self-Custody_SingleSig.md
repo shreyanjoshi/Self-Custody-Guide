@@ -18,13 +18,13 @@
 
     2. Standard Hardware Wallets/Cold Wallets. 
     These are wallets which store your private keys on a device which never connects to the internet, hence 'cold'.
-    They are dedicated hardware devices only to store your private keys and sign transactions.
+    They are dedicated hardware devices designed only to store your private keys and sign transactions.
     They are used to secure your long-term savings, ie, funds NOT meant to be spent day-to-day.
-    You can receive funds on these wallets easily setting up what are called Watch-only wallets.
+    You can receive funds on these wallets easily setting up what are called Watch-only wallets - wallets which can receive and monitor transactions but cannot sign transactions/spend money.
 
     * Standard Hardware wallets - Coldcard, Tapsigner, Jade. Click here for a video on using a Coldcard.
    
-    Download and install, or Buy the wallet of your choice. Make sure to only download the wallet from trusted sources - Play Store, App Store and recognised websites.
+    Download and install, or Buy the wallet of your choice. Make sure to only download or buy the wallet from trusted sources - Play Store, App Store and recognised websites.
 
 ## Step 2: Generate a New Wallet
     Create a new Bitcoin wallet using the wallet app by clicking on add Wallet. 
