@@ -42,21 +42,22 @@
     If the recovery is successful, you are ready to receive any amount of Bitcoin securely with recovery in future!
 
 ## Step 3: Create Multiple Back Ups of Your Wallet
-    It is important that you create multiple back ups of your wallet/mnemonic to protect yourself from risks to your only backup
-    such as loss, theft, disasters etc. If you lose your mnemonic written down in Step 1, you lose the ability to recover your
-    wallet, and hence if your mobile phone gets lost/stolen/damaged, you lose your money. 
+    It is important that you create multiple backups of your wallet/mnemonic to protect yourself from risks to your only 
+    backup such as loss, theft, disasters etc. If you lose your mnemonic written down in Step 1, you lose the ability to 
+    recover your wallet, and hence if your mobile phone gets lost/stolen/damaged, you lose your money. 
     
-    a) Create another back up of your wallet by writing your mnemonic in the correct sequence offline - either on paper or metal. 
+    a) Create another back up of your wallet by writing your mnemonic in the correct sequence offline - either on paper or
+       metal. 
     b) Keep the piece of paper/metal in a physically secure location. This location should be private and safe from theft, 
-       damage by water, fire, natural disasters etc. Example - Your private locker, basement of your house, your safety deposit
-       box in bank etc.
-    c) Create as many backups as you think are necessary to create redundancy. Keep them in different geographically separate
-       locations. It is recommended to start with one backup at a time and increase the number of backups when you feel safe you
-       have sufficiently secured the location of your previous backups.
-    d) Regularly keep checking the security of your backup locations making sure the privacy of the location is not compromised,
-       the backups are not lost or stolen, not damaged by water, fire, or not destroyed in a natural disaster etc.
-    e) You can also think of giving dividing your mnemonic in 2 pieces of six words each(or some other combination) and giving
-       them to two trustworthy people in your life you trust to not collude to steal your money.
+       damage by water, fire, natural disasters etc. Example - Your private locker, basement of your house, your safety
+       deposit box in bank etc.
+    c) Create as many backups as you think are necessary to create redundancy. Keep them in different geographically 
+       separate locations. It is recommended to start with one backup at a time and increase the number of backups when you
+       feel safe you have sufficiently secured the location of your previous backups.
+    d) Regularly keep checking the security of your backup locations making sure the privacy of the location is not
+       compromised, the backups are not lost or stolen, not damaged by water, fire, or not destroyed in a natural disaster.
+    e) You can also think of giving dividing your mnemonic in 2 pieces of six words each(or some other combination) and 
+       giving them to two trustworthy people in your life you trust to not collude to steal your money.
 
     These backups will allow you to recover your wallet in cases your mobile phone and first back up is missing, lost, stolen,
     or damaged. 
