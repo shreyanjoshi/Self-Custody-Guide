@@ -1,57 +1,42 @@
-# The procedure for self-custody of Bitcoin in 4 simple steps:
+# The procedure for self-custody of Bitcoin using a Hot Wallet in 3 simple steps:
 
-## Step 1: Choose a Standard Wallet.
-    To begin Self-Custody of your Bitcoin, you need to choose a Standard Bitcoin Wallet that fits your needs. Some of the Standard Wallets are BlueWallet, Blockstream Green, Wasabi, ColdCard.
-    Standard Bitcoin Wallets are wallet softwares which are open-source, reputable, and battlefield tested for security.
-
-    There are two types of Bitcoin wallets: 1. Software wallets(mobile and desktop)
-                                            2. Hardware wallets
-    Each has its own pros and cons in terms of security, accessibility, and ease of use:
-
-    1. Standard Software Wallets/Hot Wallets. 
-    These are wallets which store your private keys on your mobile or desktop. 
-    They should ONLY hold the amount of funds you want easy access to spend, since they are always vulnerable to attacks from malicious software updates and hackers. 
-
-    * Standard Mobile wallets - Blue, Muun, Breez, Samourai, Green, Phoenix, Simple Bitcoin Wallet. Click here for a video on using BlueWallet.
-
-    * Standard Desktop wallets - Wasabi, Sparrow, Bitcoin Core. Click here for a video on using Wasabi.   
-
-    2. Standard Hardware Wallets/Cold Wallets. 
-    These are wallets which store your private keys on a device which never connects to the internet, hence 'cold'.
-    They are dedicated hardware devices designed only to store your private keys and sign transactions.
-    They are used to secure your long-term savings, ie, funds NOT meant to be spent day-to-day.
-    You can receive funds on these wallets easily setting up what are called Watch-only wallets - wallets which can receive and monitor transactions but cannot sign transactions/spend money.
-
-    * Standard Hardware wallets - Coldcard, Tapsigner, Jade. Click here for a video on using a Coldcard.
+## Step 1: Choose a Standard Wallet App and Generate a New Wallet.
+    To begin Self-Custody of your Bitcoin, you need to choose a Standard Bitcoin Wallet App. These are wallets which are open-source software, reputable, and battlefield tested for security.
+    We recommend using Blockstream Green. Install it from the Play Store or the App Store. Follow the instructions in the App to set up your wallet:   
+    a) Open the App and click on "+ Add Wallet".
+    b) Now, click on "+ New Wallet".
+    c) Now, click on Bitcoin under Choose Your Network.
+    d) Now, click on Singlesig under Choose Security Policy. Let the Recovery phrase length be default set to 12.
+    e) Now, before you click on Next, please go through the three warnings under Back Up Recovery Phrase.
+    f) Now, Write down the 12 word mnemonic phrase in the correct sequence using pen and paper. This sequence of words is used to backup your wallet to recover in the future.
+       Do not write/store them online and do noy take its picture to protect yourself from hackers. Click on Next.
+    g) Now, select the correct word from the sequence of your mnemonic from the options under Check your backup.
+    h) Now, choose a name for your wallet under Wallet name and click on Next.
+    i) Now, Set a PIN. Click on Next, and Verify Your PIN. 
+    j) Your Wallet is now Set Up!. Click on Explore Your Wallet.
    
-    Download and install, or Buy the wallet of your choice. Make sure to only download or buy the wallet from trusted sources - Play Store, App Store and recognised websites.
+    You are now eady to receive Bitcoin. 
 
-## Step 2: Generate a New Wallet
-    Create a new Bitcoin wallet using the wallet app by clicking on add Wallet. 
-    The wallet will generate a unique Bitcoin Seed, which you can use to backup the wallet and recover it in future. 
-
-    You are now ready to receive Bitcoin. 
-
-    Note:- Most wallets also allow you to set up an optional passphrase, which is the 13th or 25th word used with your seed to recover the wallet.
-    The optional passphrase is useful for multiple wallets management.
-    You can use the optional passphrase(s) which is a word(s) or phrase(s) of your choice used ALONG with the seed to create new separate wallet(s).
-    For example, a wallet with your seed phrase "Seed-1" is securing some funds, and you create multiple wallets with the seed phrases as "Seed-1 + passphrase" with the passphrase being phrases such as 'Life-Savings', 'Recreation', 'Emergency funds', 'Decoy'.
-    You should ideally keep the passphrase something unique and personal, so that in case you lose your seed phrase the funds secured by passphrase wallets will still be secure.
-    Please keep in mind that you would need to use multiple wallets if you want to access funds secured by multiple seeds at the same time. 
-  
-## Step 3: Transfer/Receive Bitcoin.
+## Step 2: Transfer/Receive Bitcoin.
     Transfer your Bitcoin from exchanges or receive from a sender by clicking on receive, and sending the generated Bitcoin address generated by your wallet software. 
     Be careful when copying and pasting Bitcoin addresses to avoid any mistakes, as transactions on the Bitcoin network are irreversible.
 
-## Step 4: Back Up Your Wallet
-    It is critical to back up your wallet since losing Bitcoin is akin to losing a physical item. If you lose your seed phrase, you lose the ability to recover your wallet.
-    Back up your wallet by securely storing your seed phrase(and optional passphrase) offline on as many pieces of paper as you deem fit and keep them in different physically secure locations.
-    These locations should be private, accessible, safe from theft, loss, damage by water, fire, etc.
-    These backups will allow you to recover your wallet in cases of wallet service being unavailaible, theft, loss, or damage of your device.
+## Step 3: Create Multiple Back Ups of Your Wallet
+    It is important that you create multiple back ups of your Wallet, ie backup your 12 word mnemonic to protect yourself from all kinds of vulnerabilities and risks like loss, theft, disasters etc.
+    If you lose your mnemonic written down in Step 1, you lose the ability to recover your wallet, and hence if your mobile phone gets lost/stolen/damaged, you lose your money. 
+    
+    a) Create another back up of your wallet by writing your 12 word mnemonic in the correct sequence *offline* - either on paper or metal. 
+    b) Keep the piece of paper/metal in a physically secure location. This location should be private, accessible only by you, and safe from theft, loss, damage by water, fire, natural disasters etc. 
+       Example - Your private locker, basement of your house, your safety deposit box in bank etc.
+    c) Create as many backups as you think are necessary to create redundancy. Keep them in different geographically separate locations. 
+       It is recommended to start with one backup at a time and increase the number of backups when you feel safe you have sufficiently secured the location of your previous backups.
+    d) Regularly keep checking the security of your backup locations making sure the location privacy is not compromised, the backups are not lost or stolen, not damaged by water, fire, or not destroyed in a natural disaster etc.
+    e) You can also think of giving dividing your mnemonic in 2 pieces of six words each(or some other combination) and giving them to two trustworthy people in your life you trust to not collude to steal your money.
 
-    * If you have kept an optional passphrase, you should either make it memorable so that you do not need to write it down for backup or create backups for it seperately. Using passphrases is entirely optional. NOT ADVISED for beginners.
-    * Instead of securing the 12/24 words directly, you can highlight them in your favourite books and write down the page and paragraph numbers for reference.
-    * You can also think of distributing your Seed into three pieces of 4 words each and giving each piece to trusted family members and friends you trust to not collude to cheat you.
-    * You can use a metal plate instead of piece of paper if you think that paper is fragile and insecure to maintain. 
-Self-custody of Bitcoin comes with responsibility of securing your seed phrase and managing your backups. Remember that self-custody always comes with a unique set of potential risks and vulnerabilities regardless of your setup. 
-Please take the required time and necessary precautions to ensure the security of your Bitcoin, ie, using the correct Wallets, keeping the seed phrase private, and regularly maintaining your backups. 
+    These backups will allow you to recover your wallet in cases your mobile phone is missing, lost, stolen, or damaged. 
+
+Self-custody of Bitcoin comes with the responsibility of securing your mnemonic and managing your backup locations. 
+Self-custody always comes with a unique set of potential risks and vulnerabilities for each individual depending on their life situation, place of residence, risk appetite, personal ring of trust etc. 
+Please take the required time and necessary precautions to ensure the security of your Bitcoin, ie, using Standard Wallets, keeping the mnemonic and backups private, and regularly checking your backup locations. 
+
+
