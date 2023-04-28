@@ -66,6 +66,18 @@ Self-custody of Bitcoin comes with the responsibility of securing your mnemonic 
 Self-custody always comes with a unique set of potential risks and vulnerabilities for each individual depending on their life situation, place of residence, risk appetite, personal ring of trust etc. 
 Please take the required time and necessary precautions to ensure the security of your Bitcoin, ie, using Standard Wallets, keeping the mnemonic and backups private, and regularly checking your backup locations. 
 
-## Common Risks
+## Common Risks with Hot Wallets
 
+### Hacking
 
+### Carelessness
+
+### Complex Backups
+
+### Damage
+
+### Theft
+
+### Disaster
+
+### Death/Incapacitation
