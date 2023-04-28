@@ -1,4 +1,4 @@
-# The procedure for self-custody of Bitcoin using a Hot Wallet in 3 simple steps:
+# Procedure for self-custody of Bitcoin using a Hot Wallet in 3 simple steps, with common risks:
 
 ## Step 1: Choose a Standard Wallet App and Generate a New Wallet.
     To begin Self-Custody of your Bitcoin, you need to choose a Standard Bitcoin Wallet App. These are wallets which are open-
@@ -66,4 +66,6 @@ Self-custody of Bitcoin comes with the responsibility of securing your mnemonic 
 Self-custody always comes with a unique set of potential risks and vulnerabilities for each individual depending on their life situation, place of residence, risk appetite, personal ring of trust etc. 
 Please take the required time and necessary precautions to ensure the security of your Bitcoin, ie, using Standard Wallets, keeping the mnemonic and backups private, and regularly checking your backup locations. 
 
-Click here to understand some of the most common threats to losing your Bitcoin.
+## Common Risks
+
+
