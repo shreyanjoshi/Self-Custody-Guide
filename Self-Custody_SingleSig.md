@@ -55,7 +55,7 @@
        separate locations. 
        It is recommended to start with one backup at a time and increase the number of backups when you feel safe you have
        sufficiently secured the location of your previous backups.
-    d) Regularly keep checking the security of your backup locations making sure the location privacy is not compromised,
+    d) Regularly keep checking the security of your backup locations making sure the privacy of the location is not compromised,
        the backups are not lost or stolen, not damaged by water, fire, or not destroyed in a natural disaster etc.
     e) You can also think of giving dividing your mnemonic in 2 pieces of six words each(or some other combination) and
        giving them to two trustworthy people in your life you trust to not collude to steal your money.
