@@ -76,8 +76,8 @@
     These backups will allow you to recover your wallet in cases your mobile phone and/or first back up is missing, lost,
     stolen, or damaged. Remember to move your funds to a new wallet/mnemonic in case any of your backups get compromised.
 
-Self-custody of Bitcoin comes with the responsibility of securing your mnemonic and managing your backup locations. 
-Self-custody always comes with a unique set of potential risks and vulnerabilities for each individual depending on their life situation, place of residence, risk appetite, personal ring of trust etc. 
+Self-custody of Bitcoin comes with the responsibility of keeping your mnemonic safe and managing your backup locations. 
+Self-custody always comes with a unique set of potential risks and vulnerabilities for each individual depending on their life situation, place of residence, risk appetite, social ring of trust etc. 
 Please take the required time and necessary precautions to ensure the security of your Bitcoin, ie, using Standard Wallets, keeping the mnemonic and backups private, and regularly checking your backup locations. 
 
 ## Common risks and mistakes associated with securing Hot Wallets:
