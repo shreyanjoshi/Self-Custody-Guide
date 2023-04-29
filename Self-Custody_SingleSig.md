@@ -24,11 +24,11 @@
 
     Note: If you lose your mobile/desktop/backup or it is stolen, you should immediately recover your wallet on a new device 
     and move all your funds to a new wallet with a new mnemonic by clicking on "Restore a Wallet" when you install and open
-    Green. This is to protect yourself from someone who might get access to the mnemonic and wants to steal your money. 
+    Green. This is to protect yourself from someone who might get access to the mnemonic and steals your money. 
 
     It might seem that someone might guess your sequence of 12 words to steal your Bitcoin but the power of randomness of 12 
     words is not appreciated enough. The best supercomputers in the world cannot guess your mnemonic and steal your Bitcoin 
-    thanks to entropy in guessing sequence of words!
+    thanks to entropy in guessing words!
 
     Note: Some wallets allow you to enter an additional passphrase which is the 13th or 25th word used in addition with your
     mnemonic when you want to recover your wallet. You can keep a passphrase if you feel securing only the mnemonic is 
@@ -72,14 +72,14 @@
     e) You can also think of giving dividing your mnemonic in 2 pieces of six words each(or some other combination) and 
        giving them to two trustworthy people in your life you trust to not collude to steal your money.
 
-    These backups will allow you to recover your wallet in cases your mobile phone and/or first back up is missing, lost, stolen,
-    or damaged. Remember to move your funds to a new wallet/mnemonic in case any of your backups get compromised.
+    These backups will allow you to recover your wallet in cases your mobile phone and/or first back up is missing, lost,
+    stolen, or damaged. Remember to move your funds to a new wallet/mnemonic in case any of your backups get compromised.
 
 Self-custody of Bitcoin comes with the responsibility of securing your mnemonic and managing your backup locations. 
 Self-custody always comes with a unique set of potential risks and vulnerabilities for each individual depending on their life situation, place of residence, risk appetite, personal ring of trust etc. 
 Please take the required time and necessary precautions to ensure the security of your Bitcoin, ie, using Standard Wallets, keeping the mnemonic and backups private, and regularly checking your backup locations. 
 
-## Common Risks associated with Hot Wallets:
+## Common risks and mistakes associated with securing Hot Wallets:
 
 ### Hacking
 
