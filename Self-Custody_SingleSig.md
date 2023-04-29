@@ -1,4 +1,4 @@
-# Procedure for Self-custody of Bitcoin using a Hot Wallet in 3 simple steps, with Common Risks:
+# Procedure for Self-Custody of Bitcoin using a Hot Wallet in 3 simple steps, with Common Risks:
 
 ## Step 1: Choose a Standard Wallet and Generate a New Wallet.
     To begin Self-Custody of your Bitcoin, you need to choose a Standard Bitcoin Wallet. These are wallets which are open-
