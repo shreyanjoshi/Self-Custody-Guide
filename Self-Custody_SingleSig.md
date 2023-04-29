@@ -22,17 +22,18 @@
     If your mobile/desktop gets lost, stolen, or damaged, your Bitcoin does not get lost and can be used by recovering your 
     wallet on a new device(mobile or desktop or cold wallet) using the mnemonic.
 
-    Note: If you lose your mobile/desktop/backup or it is stolen, you should immediately recover your wallet on a new device 
-    and move all your funds to a new wallet with a new mnemonic by clicking on "Restore a Wallet" when you install and open
+    If you lose your mobile/desktop/backup or it is stolen, you should immediately recover your wallet on a new device and
+    move all your funds to a new wallet with a new mnemonic by clicking on "Restore a Wallet" when you install and open
     Green. This is to protect yourself from someone who might get access to the mnemonic and steals your money. 
 
     It might seem that someone might guess your sequence of 12 words to steal your Bitcoin but the power of randomness of 12 
     words is not appreciated enough. The best supercomputers in the world cannot guess your mnemonic and steal your Bitcoin 
     thanks to entropy in guessing words!
 
-    Note: Some wallets allow you to enter an additional passphrase which is the 13th or 25th word used in addition with your
-    mnemonic when you want to recover your wallet. You can keep a passphrase if you feel securing only the mnemonic is 
-    insecure and you want an additional layer of security by keeping a secret passphrase, secured separately from the mnemonic. 
+    Note: Some wallets provide an option for you to enter an additional passphrase which is the 13th/25th word used in 
+    addition with your mnemonic when you want to recover your wallet. You can keep a passphrase if you feel securing only the
+    mnemonic is insecure and you want an additional layer of security by keeping a secret passphrase, secured separately from
+    the mnemonic. 
 
     You are now ready to receive Bitcoin!
 
@@ -44,8 +45,8 @@
     is a good practice to not reuse the same Bitcoin address to receive multiple payments to protect your privacy from
     anyone spying the Bitcoin blockchain.
 
-    Transactions on the Bitcoin network are irreversible, so be careful and avoid mistakes while sharing or copying and pasting
-    the correct address before sending them to the sender.
+    Transactions on the Bitcoin network are irreversible, so be careful and avoid mistakes while sharing or copying and
+    pasting the correct address before sending them to the sender.
 
     If you want to, you can receive a small amount to begin with and attempt recovery on a separate mobile phone or a different
     wallet app like Bluewallet to make sure you have written the mnemonic correctly.
@@ -57,13 +58,13 @@
     If the recovery is successful, you are ready to receive any amount of Bitcoin securely with recovery in future!
 
 ## Create Multiple Back Ups of Your Wallet(optional but recommended)
-    It is important that you create multiple backups of your wallet/mnemonic to protect yourself from risks to your only backup
-    such as loss, theft, disasters etc. If you lose your mnemonic written down in Step 1, you lose the ability to recover your
-    wallet, and hence if your mobile phone gets lost/stolen/damaged, you lose your money. 
+    It is important that you create multiple backups of your wallet/mnemonic to protect yourself from risks to your only 
+    backup such as loss, theft, disasters etc. If you lose your mnemonic written down in Step 1, you lose the ability to 
+    recover your wallet, and hence if your mobile phone gets lost/stolen/damaged, you lose your money. 
     
     a) Create another back up of your wallet by writing your mnemonic offline - either on paper or metal. 
-    b) Keep the piece of paper/metal in a physically secure location. This location should be safe from theft, damage by water,
-       fire, natural disasters etc. Example - Your private locker, basement of your house, your safety deposit box in bank etc.
+    b) Keep the paper/metal in a physically secure location. This location should be safe from theft, damage by water, fire,
+       natural disasters etc. Example - Your private locker, basement of your house, your safety deposit box in bank etc.
     c) Create as many backups as you think are necessary to create redundancy. Keep them in different geographically separate 
        locations. It is recommended to start with one backup at a time and increase the number of backups when you feel that 
        you have sufficiently secured your previous backups.
