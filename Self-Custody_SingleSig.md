@@ -10,7 +10,7 @@
     c) Now, click on Bitcoin under Choose Your Network.
     d) Now, click on Singlesig under Choose Security Policy. Let the Recovery phrase length be default set to 12.
     e) Now, before you click on Next, please go through the three warnings under Back Up Recovery Phrase.
-    f) Now, Write down the 12 word mnemonic phrase in the correct sequence using pen and paper. This sequence of words is used
+    f) Now, write down the 12 word mnemonic phrase in the correct sequence using pen and paper. This sequence of words is used
        to backup your wallet to recover in the future. Do not write/store them online and do not take its picture to protect 
        yourself from hackers. Click on Next.
     g) Now, select the correct word from the sequence of your mnemonic from the options under Check your backup.
