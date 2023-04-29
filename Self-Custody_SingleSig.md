@@ -56,7 +56,7 @@
 
     If the recovery is successful, you are ready to receive any amount of Bitcoin securely with recovery in future!
 
-## Step 3: Create Multiple Back Ups of Your Wallet(optional but recommended)
+## Create Multiple Back Ups of Your Wallet(optional but recommended)
     It is important that you create multiple backups of your wallet/mnemonic to protect yourself from risks to your only 
     backup such as loss, theft, disasters etc. If you lose your mnemonic written down in Step 1, you lose the ability to 
     recover your wallet, and hence if your mobile phone gets lost/stolen/damaged, you lose your money. 
