@@ -31,8 +31,8 @@
     thanks to entropy in guessing sequence of words!
 
     Note: Some wallets allow you to enter an additional passphrase which is the 13th or 25th word used in addition with your
-    mnemonic when you want to recover your wallet. You can keep a passphrase if you feel securing only the mnemonic is insecure
-    and you want an additional layer of security by keeping a secret passphrase, secured separately from the mnemonic. 
+    mnemonic when you want to recover your wallet. You can keep a passphrase if you feel securing only the mnemonic is 
+    insecure and you want an additional layer of security by keeping a secret passphrase, secured separately from the mnemonic. 
 
     You are now ready to receive Bitcoin!
 
