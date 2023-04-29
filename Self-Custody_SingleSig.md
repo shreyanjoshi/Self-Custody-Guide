@@ -1,4 +1,4 @@
-# Step-by-step Guide to using a Hot Wallet, with common risks and mistakes:
+# Step-by-step guide to using a Hot Wallet, with common risks and mistakes:
 
 ## Choose a Standard Wallet App and Create a New Wallet.
     To begin Self-Custody of your Bitcoin, you need to choose a Standard Bitcoin Wallet. These are wallets which are open-
@@ -13,28 +13,28 @@
     f) Now, write down the 12 word mnemonic phrase in the correct sequence using pen and paper. This sequence of words is used
        to backup your wallet to recover in the future. Do not write/store them online and do not take its picture to protect 
        yourself from hackers. Click on Next.
-    g) Now, select the correct word from the sequence of your mnemonic from the options under Check your backup.
+    g) Now, select the correct word of your mnemonic from the options under Check your backup.
     h) Now, choose a name for your wallet under Wallet name and click on Next.
     i) Now, Set a PIN. The PIN protects you from an attacker in possession of your phone. Click on Next, and Verify Your PIN. 
     j) Your Wallet is now Set Up!. Click on Explore Your Wallet.
    
-    Remember that the mnemonic - the sequence of 12 words - IS your wallet. Security of your Bitcoin relies ONLY on keeping 
-    the words safe. If your mobile/desktop is lost, stolen, or damaged, your Bitcoin does not get lost and can be used by 
-    recovering your wallet on a new device(mobile or desktop or cold wallet) using the mnemonic.
+    The mnemonic - the sequence of 12 words - IS your wallet. Security of your Bitcoin relies ONLY on keeping the words safe.
+    If your mobile/desktop gets lost, stolen, or damaged, your Bitcoin does not get lost and can be used by recovering your 
+    wallet on a new device(mobile or desktop or cold wallet) using the mnemonic.
 
     Note: If you lose your mobile/desktop/backup or it is stolen, you should immediately recover your wallet on a new device 
-    and sweep all your funds to a new wallet with a new mnemonic by clicking on "Restore a Wallet" when you install and open
-    Green. 
+    and move all your funds to a new wallet with a new mnemonic by clicking on "Restore a Wallet" when you install and open
+    Green. This is to protect yourself from someone who might get access to the mnemonic and wants to steal your money. 
 
     It might seem that someone might guess your sequence of 12 words to steal your Bitcoin but the power of randomness of 12 
     words is not appreciated enough. The best supercomputers in the world cannot guess your mnemonic and steal your Bitcoin 
-    thanks to entropy in guessing sequence of words.
+    thanks to entropy in guessing sequence of words!
 
-    Note: Some wallets allow you to enter an additional passphrase which is the 13th or 25th word in addition to your mnemonic
-    used when you want to recover your wallet. You can keep a passphrase if you feel securing just the mnemonic is insecure
-    and you want an additional layer of security by keeping a secret passphrase, secured separately. 
+    Note: Some wallets allow you to enter an additional passphrase which is the 13th or 25th word used in addition with your
+    mnemonic when you want to recover your wallet. You can keep a passphrase if you feel securing only the mnemonic is insecure
+    and you want an additional layer of security by keeping a secret passphrase, secured separately from the mnemonic. 
 
-    You are now ready to receive Bitcoin. 
+    You are now ready to receive Bitcoin!
 
 ## Buy/Receive Bitcoin.
     Buy/Transfer your Bitcoin from exchanges or receive from a sender by clicking on receive, and sending the generated Bitcoin
