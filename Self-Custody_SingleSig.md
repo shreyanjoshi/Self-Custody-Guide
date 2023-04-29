@@ -1,6 +1,6 @@
 # Step-by-step Guide to using a Hot Wallet, with common risks and mistakes:
 
-## Choose a Standard Wallet and Create a New Wallet.
+## Choose a Standard Wallet App and Create a New Wallet.
     To begin Self-Custody of your Bitcoin, you need to choose a Standard Bitcoin Wallet. These are wallets which are open-
     source software, reputable, and battlefield tested for security. We recommend using Green Wallet. Install it from the Play
     Store or the App Store on your mobile, or download it from blockstream.com/green on your desktop. Follow the instructions 
