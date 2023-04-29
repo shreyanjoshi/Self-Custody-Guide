@@ -1,4 +1,4 @@
-# Procedure for Self-Custody of Bitcoin using a Hot Wallet in 3 simple steps, with Common Risks:
+# Procedure for Self-Custody of Bitcoin using a Hot Wallet in 2 simple steps, with Common Risks:
 
 ## Step 1: Choose a Standard Wallet and Create a New Wallet.
     To begin Self-Custody of your Bitcoin, you need to choose a Standard Bitcoin Wallet. These are wallets which are open-
@@ -19,8 +19,13 @@
     j) Your Wallet is now Set Up!. Click on Explore Your Wallet.
    
     Remember that the mnemonic - the sequence of 12 words - IS your wallet. Security of your Bitcoin relies ONLY on keeping 
-    the words safe and private. If your mobile/desktop is lost, stolen, or damaged, your Bitcoin can still be used by 
-    recovering your wallet on a new device(mobile or desktop or cold wallet) using the mnemonic. 
+    the words safe. If your mobile/desktop is lost, stolen, or damaged, your Bitcoin does not get lost and can be used by 
+    recovering your wallet on a new device(mobile or desktop or cold wallet) using the mnemonic.
+
+    Note: If you lose your mobile/desktop/backup or it is stolen, you should immediately recover your wallet on a new device 
+    and sweep all your funds to a new wallet with a new mnemonic by clicking on "Restore a Wallet" when you install and open
+    Green. 
+
     It might seem that someone might guess your sequence of 12 words to steal your Bitcoin but the power of randomness of 12 
     words is not appreciated enough. The best supercomputers in the world cannot guess your mnemonic and steal your Bitcoin 
     thanks to entropy in guessing sequence of words.
@@ -51,7 +56,7 @@
 
     If the recovery is successful, you are ready to receive any amount of Bitcoin securely with recovery in future!
 
-## Step 3: Create Multiple Back Ups of Your Wallet
+## Step 3: Create Multiple Back Ups of Your Wallet(optional but recommended)
     It is important that you create multiple backups of your wallet/mnemonic to protect yourself from risks to your only 
     backup such as loss, theft, disasters etc. If you lose your mnemonic written down in Step 1, you lose the ability to 
     recover your wallet, and hence if your mobile phone gets lost/stolen/damaged, you lose your money. 
