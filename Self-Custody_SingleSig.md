@@ -1,4 +1,4 @@
-# Step-by-step Guide to using a Hot Wallet, with Common Risks:
+# Step-by-step Guide to using a Hot Wallet, with Common Risks and Mistakes:
 
 ## Step 1: Choose a Standard Wallet and Create a New Wallet.
     To begin Self-Custody of your Bitcoin, you need to choose a Standard Bitcoin Wallet. These are wallets which are open-
