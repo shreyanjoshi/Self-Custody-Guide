@@ -81,17 +81,52 @@ Self-custody always comes with a unique set of potential risks and vulnerabiliti
 Please take the required time and necessary precautions to ensure the security of your Bitcoin, ie, using Standard Wallets, keeping the mnemonic and backups safe, and regularly checking your backup locations. 
 
 ## Common risks and mistakes associated with securing Hot Wallets:
-
+Some of the most common risks and mistakes that every user of a Bitcoin Hot Wallet should be aware of-
 ### Hacking
+    It is sometimes easy to forget that Hot Wallets are always insecure to attacks from hackers since the private keys to
+    sign your transactions, ie spend your money, are always on your mobile/desktop - devices which can connect to the internet.
+    Hot Wallets should only be used like your physical wallets keeping cash notes - securing money you can afford to lose.
+
+### Privacy
+    It is tempting to send the same address to multiple people to receive payments but please be aware that this puts you at
+    the risk of leaking privacy to someone spying the blockchain who will be able to correlate that all of the received money
+    to the address belongs to you when you spend any amount from the address in the future. Mitigating this risk is as easy as
+    creating a new address and sharing it with the sender everytime you want to receive a payment.
+
+### Phishing Websites
+    A lot of malicious websites and apps might tell you to deposit Bitcoin or type your mnemonic online in return of services,
+    yield, returns, tokens etc. Please remember you do not need to give your mnemonic to anybody to send them Bitcoin.
+    The mnemonic is supposed to only be known by you, and kept safe and private.
 
 ### Carelessness
+    It is possible that you yourself might discard your backup in an enthuasiastic cleaning session or tear it accidentally,
+    and other such variety of threats to your paper backups. We all know how easy it is for humans to make silly mistakes,
+    and in the case of losing your phone or your paper backups, you also lose money which is never a good feeling. That's
+    why a lot of people use steel/metal plates to store their backup to prevent themselves from the fragility of paper
+    and their own forgetfulness.
 
 ### Complex Backups
+    A lot of people get lose in securing their money so perfectly that their backup mechanism becomes very complex to recover
+    their wallet - a classic example of shooting yourself in the foot. Please ensure you take each security measure one step
+    at a time and do not worry too much of making multiple backups all at once. Similary, techniques like keeping a secret
+    passphrase, and encrypting your mnemonic should also be undertaken cautiously.
 
-### Damage
+### Damage and Disasters
+    Protecting 12 words - your mnemonic - does not sound very difficult, and it is not, but it comes with the requirement
+    of ensuring the location where you keep your paper/metal backups is not prone to fire hazards, damage by water, vulnerable
+    to earthquakes, floods, armed robbery etc. The decision of choosing the location to keep your backups should be well 
+    thought out because you are not always going to be present at that location and you would need to consider the geography,
+    public safety protocols, disaster management techniques etc.
 
 ### Theft
-
-### Disaster
+    Securing Bitcoin is akin to securing a physical item - if you lose it, there is no customer service to call and reverse 
+    the loss. If your mnemonic gets stolen by an attacker, you cannot recover your money. It is essential that you take 
+    measures to ensure your own physical safety as well as that of your backup locations. That is why it is a good practice
+    to use Bitcoin privately. Click here to learn more about using Bitcoin privately.
 
 ### Death/Incapacitation
+    In case you die or get incapacitated, you might want to make sure your heirs/family/loved ones have some way of accessing
+    your Bitcoin. To do this, the simplest way is to create a separate wallet using a new mnemonic, give it to a trusted
+    guardian and regularly keep moving some funds to it. You can also think of leaving a note with a unique and personal 
+    message that only someone you know can understand who uses it to find the location to one of your backups.
+
