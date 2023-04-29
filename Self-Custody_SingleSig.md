@@ -1,6 +1,6 @@
-#Step-by-step Guide to using a Hot Wallet, with Common Risks and Mistakes:
+# Step-by-step Guide to using a Hot Wallet, with Common Risks and Mistakes:
 
-##Choose a Standard Wallet and Create a New Wallet.
+## Choose a Standard Wallet and Create a New Wallet.
     To begin Self-Custody of your Bitcoin, you need to choose a Standard Bitcoin Wallet. These are wallets which are open-
     source software, reputable, and battlefield tested for security. We recommend using Green Wallet. Install it from the Play
     Store or the App Store on your mobile, or download it from blockstream.com/green on your desktop. Follow the instructions 
@@ -36,7 +36,7 @@
 
     You are now ready to receive Bitcoin. 
 
-##Buy/Receive Bitcoin.
+## Buy/Receive Bitcoin.
     Buy/Transfer your Bitcoin from exchanges or receive from a sender by clicking on receive, and sending the generated Bitcoin
     address by your wallet to the exchange/sender. 
 
