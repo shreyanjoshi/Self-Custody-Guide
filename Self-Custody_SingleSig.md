@@ -83,9 +83,9 @@ Please take the required time and necessary precautions to ensure the security o
 ## Common risks and mistakes associated with securing Hot Wallets:
 Some of the most common risks and mistakes that every user of a Bitcoin Hot Wallet should be aware of-
 ### Hacking
-It is sometimes easy to forget that Hot Wallets are always insecure to attacks from hackers since the private keys to
-sign your transactions, ie spend your money, are always on your mobile/desktop - devices which can connect to the internet.
-Hot Wallets should only be used like your physical wallets keeping cash notes - securing money you can afford to lose.
+    It is sometimes easy to forget that Hot Wallets are always insecure to attacks from hackers since the private keys to
+    sign your transactions, ie spend your money, are always on your mobile/desktop - devices which can connect to the internet.
+    Hot Wallets should only be used like your physical wallets keeping cash notes - securing money you can afford to lose.
 
 ### Privacy
     It is tempting to send the same address to multiple people to receive payments but please be aware that this puts you at
